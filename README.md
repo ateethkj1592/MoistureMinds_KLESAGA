@@ -5,7 +5,7 @@ Soil moisture refers to the amount of water present in the soil. It is a critica
 
 MoistureMinds.ipynb contains all the tested models and their accuracy scores.
 
-<strong>Website<strong/>
+#Website
 website consists of information and some of the functionalities of the models. for any given input date from march 1 to 10, predicted value will be displaed.
 Website Link : https://soil-moisture-aa43b.web.app
 
