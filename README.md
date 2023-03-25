@@ -11,11 +11,12 @@ Soil type and topography also impact soil moisture, with clay soils holding more
 MoistureMinds.ipynb contains all the tested models and their accuracy scores.
 
 # Website
-website consists of information and some of the functionalities of the models. for any given input date from march 1 to 10, predicted value will be displaed.
+React based single page website consists of information and some of the functionalities of the models. for any given input date from march 1 to 10, predicted value for soil moisture level will be displayed. It will also ssuggest the best crops that could be grown in that level of soil moisture.
 
 Website Link : https://soil-moisture-aa43b.web.app
 
-To run the source code provided in the repository, download the zip file, set up in local environment and run 
+To run the source code provided in the repository, download the zip file, set up in local environment and run
+
 `npm start"`
 
 
