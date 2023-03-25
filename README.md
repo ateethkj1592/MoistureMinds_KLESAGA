@@ -11,5 +11,6 @@ website consists of information and some of the functionalities of the models. f
 Website Link : https://soil-moisture-aa43b.web.app
 
 To run the source code provided in the repository, download the zip file, set up in local environment and run 
-`git commit -m "Add new feature"`
+`npm start"`
+
 
