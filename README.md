@@ -13,7 +13,7 @@ Soil type and topography also impact soil moisture, with clay soils holding more
 MoistureMinds.ipynb contains all the tested models and their accuracy scores.
 
 # About_the_project
-This repository contains the code and results for predicting soil moisture content using machine learning algorithms. Specifically, we have used two algorithms, namely multivariate linear regression and multivariate polynomial regression, to predict the soil moisture content. The results of our predictions for the period of March 1 to March 10 can be found on our website.
+This repository contains the code and results for predicting soil moisture content using machine learning algorithms. Specifically, we have used two algorithms, namely multivariate linear regression and multivariate polynomial regression, to predict the soil moisture content.These algorithms were trained on the datasets which could be found in https://github.com/chidaksh/CosmosocClub/tree/master/Parsec2023 .The results of our predictions for the period of March 1 to March 10 can be found on our website.Accuracies of our individual model could be found in our .ipynb files.
 
 # Website
 React based single page website consists of information and some of the functionalities of the models. for any given input date from march 1 to 10, predicted value for soil moisture level will be displayed. It will also ssuggest the best crops that could be grown in that level of soil moisture.
