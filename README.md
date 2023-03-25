@@ -15,6 +15,8 @@ React based single page website consists of information and some of the function
 
 Website Link : https://soil-moisture-aa43b.web.app
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://eos.com/wp-content/uploads/2019/12/soil-moisture-stages.jpg)
+
 To run the source code provided in the repository, download the zip file, set up in local environment and run
 
 `npm start"`
