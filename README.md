@@ -12,7 +12,7 @@ Soil type and topography also impact soil moisture, with clay soils holding more
 
 MoistureMinds.ipynb contains all the tested models and their accuracy scores.
 
-#About_the_project
+# About_the_project
 This repository contains the code and results for predicting soil moisture content using machine learning algorithms. Specifically, we have used two algorithms, namely multivariate linear regression and multivariate polynomial regression, to predict the soil moisture content. The results of our predictions for the period of March 1 to March 10 can be found on our website.
 
 # Website
